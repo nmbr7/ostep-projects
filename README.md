@@ -1,5 +1,5 @@
-This repo was forked from [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects).
-The provided projects will br completed in Rust and C collectively.
+**This repo was forked from [remzi-arpacidusseau/ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects).
+The provided projects will br completed in Rust and C collectively.**
 
 # Projects for an Operating Systems Class
 
