@@ -35,7 +35,7 @@ code is written in one shot (impressive!), and (c) that it works perfectly
 (well done!). Even for simple assignments, it is likely that the
 compile/run/debug cycle might take a few iterations.
 
-## C/Linux Projects
+## C/RUST/Linux Projects
 
 ### Initial Projects
 
